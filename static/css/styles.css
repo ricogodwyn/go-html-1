@@ -16,15 +16,18 @@ p {
 }
 
 .my-footer {
-    height: 5em;
-    background-color: #163b65;
-    margin-top: 1.5em;
-    padding: 1em;
-    color: white;
-    font-size: 80%;
-  }
-  .room-image{
-    max-width: 50%;
-  }
-  p {
-  }
+  height: 5em;
+  background-color: #163b65;
+  margin-top: 1.5em;
+  padding: 1em;
+  color: white;
+  font-size: 80%;
+}
+.room-image {
+  max-width: 50%;
+}
+p {
+}
+.datepicker {
+  z-index: 10000;
+}
